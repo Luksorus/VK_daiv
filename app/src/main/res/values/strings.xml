@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">IT-Дайвинг</string>
+    <string name="lus">LUS</string>
+    <string name="any_one">Any one</string>
+    <string name="text_title">Привет!</string>
+    <string name="text_message">Привет!</string>
+    <string name="name_user1">Kate Swanson</string>
+    <string name="name_user2">Alex Curry</string>
+    <string name= "name_res1">Erik Warner</string>
+    <string name= "name_res2">Ed Snow</string>
+    <string name= "name_res3">Nicole Lopez</string>
+    <string name= "name_res4">Kayla Cannon</string>
+    <string name= "name_res5">Elizabeth Campbell</string>
+    <string name= "name_res6">Jessica Cox</string>
+    <string name= "name_res7">Pamela Ross</string>
+    <string name= "name_res8">Michael Herring</string>
+    <string name= "name_res9">Isaac Payne</string>
+    <string name= "name_res10">Joseph Williams</string>
+    <string name= "name_res11">Jason Tate</string>
+    <string name= "name_res12">Terry Brown</string>
+    <string name="we">Пригласить</string>
+    <string name="re">Пригласить участника</string>
+
+
+    <string-array name="Name_and_surname_for_recycler">
+        <item>Erik Warner </item>
+        <item>Ed Snow</item>
+        <item>Nicole Lopez</item>
+        <item>Kayla Cannon</item>
+        <item>Elizabeth Campbell</item>
+        <item>Jessica Cox</item>
+        <item>Pamela Ross</item>
+        <item>Michael Herring</item>
+        <item>Isaac Payne</item>
+        <item>Joseph Williams</item>
+        <item>Jason Tate</item>
+        <item>Terry Brown</item>
+        <item>Jose Owens</item>
+        <item>Stephen Little</item>
+        <item>Rodney Johnson</item>
+        <item>James Thornton</item>
+        <item>Gerald Reynolds</item>
+        <item>Linda Hall</item>GIR1
+        <item>Helen Gardner</item>GIR2
+        <item>Lucille Richardson</item>GIR3
+        <item>Mary Simpson</item>GIR4
+        <item>Joyce Mendoza</item>GIR5
+        <item>James Singleton</item>
+        <item>Linda Hernandez</item>GIR6
+        <item>Diane Black</item>GIR7
+    </string-array>
+</resources>
